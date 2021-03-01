@@ -15,7 +15,7 @@ on:
 
 jobs:
   unittest:
-    name: runs unit tests adn updates the version if successfull
+    name: runs unit tests
     # ----- skip job if 'skip ci' in commit and if it is the main branch
     if: "!contains(github.event.commits[0].message, '[skip ci]')"
     runs-on: ubuntu-latest
