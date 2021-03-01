@@ -1,6 +1,6 @@
 {
   "name": "fileutilitiesjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "File untilites in javascript",
   "main": "fileutilsjs.js",
   "scripts": {
