@@ -1,0 +1,19 @@
+{
+  "name": "fileutilitiesjs",
+  "version": "1.0.2",
+  "description": "File untilites in javascript",
+  "main": "fileutilsjs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffbuenting/FileUtilitiesJS.git"
+  },
+  "author": "Jeff Buenting",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jeffbuenting/FileUtilitiesJS/issues"
+  },
+  "homepage": "https://github.com/jeffbuenting/FileUtilitiesJS#readme"
+}
